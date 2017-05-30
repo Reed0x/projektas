@@ -1,0 +1,22 @@
+Atlikti darbai:
+
+*Komentarø raðymas veikia;
+*Komentarai priskiriami tai vietai kur paraðyta ir ten pat atvaizduojama (pagal hidden id) 
+*Ádëtos grupiokø nuotraukos, apraðymai.
+*Paspaudus ant grupioku nuotraukos nukreipiama á jø FB page.
+*Ðoninëje (kairëje) skiltyje pasirinkus skilti grupiokai ir pasirinkus vienà ið jø, puslapis atkeliauja pas juos.
+*Virðuje deðinëje icon'os nuveda á oficialias VCS grupes (Facebook, instagram, google+, linkedin)
+*Pridëtos mokymosi kalbos
+*Idëta dëstytojai ir minimalus jø apraðymas kairëje esanèiame meniu.
+
+Ka reiktu padaryt:
+*Uþbaigti tvarkyti stiliø. (galbût tiesiog pakeisti ið raudonos spalvos á kokià nors kità.
+*optimizuot komentarø raðymo scriptà. 
+*Sutvarkyti kairëje esantá meniu. panaikinti per daug esanèiu punktø. Galima bûtø ádët vienà kità skiltá (esant galimybëms ir laikui)
+*Sukurti apie mus koká langà. 
+*Ádët google maps (Romandas buvo jau radæs ir testavesis)
+...
+*Idëjos?
+
+Ka galima butu padaryt:
+*Turime search forma. Jeigu imanoma butu ja paleisti, kad veiktu butu, nesveika.

@@ -204,7 +204,7 @@
 										<article>
 											<a href="https://www.facebook.com/sarunas.pa69" id="getSarunasPa" target="_blank" class="image"><img src="images/Sarunas_Pa.jpg" alt="" /></a>
 											<h3>Šarūnas Pa</h3>
-											<p>Dėstytojas dar nebaigė užduoties, o jis jau padarė</p>
+											<p></p>
 											<ul class="actions">
 											
 											<!-- prisijungimo prie serverio duomenys -->
@@ -219,7 +219,7 @@
 										<article>
 											<a href="https://www.facebook.com/stasasv" id="getStasysVa" target="_blank" class="image"><img src="images/Stasys_Va.jpg" alt="" /></a>
 											<h3>Stasys Va</h3>
-											<p>Susitiksim po atestatų!</p>
+											<p>Susitiksim po sertifikatų!</p>
 											<ul class="actions">
 											
 											<!-- prisijungimo prie serverio duomenys -->
@@ -232,9 +232,9 @@
 											</ul>
 										</article>
 										<article>
-											<a href="https://www.facebook.com/romandas.aleknavicius" id="getRomandasA" target="_blank" class="image"><img src="images/Romandas_A.jpg" alt="" /></a>
+											<a href="https://www.facebook.com/romandas.aleknavicius" id="getRomandasA" target="_blank" class="image"><img src="images/unknown.jpg" alt="" /></a>
 											<h3>Romandas Aleknavičius</h3>
-											<p>Susitiksim po atestatų!</p>
+											<p></p>
 											<ul class="actions">
 											
 											<!-- prisijungimo prie serverio duomenys -->
@@ -247,6 +247,10 @@
 											</ul>
 										</article>
 									</div>
+									<header class="major">
+										<br></br>
+										<h3>Jūsų komentarai apie kursus</h3>
+									</header>
 								 <form method="post" action="komentarai/insert.php">
 												<input type="hidden" name="article_id" value="1"><br>
 												<input type="text" name="username" placeholder="Įvesk vardą"><br>
@@ -334,19 +338,20 @@
 									</header>
 									<div class="mini-posts">
 										<article>
-											<a href="#" class="image"><img src="images/Aurimas_Kraulaidys.jpg" alt="" /></a>
+										
+											<a href="https://www.facebook.com/aurimas.kraulaidys" class="image"><img src="images/Aurimas_Kraulaidys.jpg" alt="" /></a>
 											<p>JAVA kalbos dėstytojas<br>
 											   Aurimas Kraulaidys</p>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/Paulius_Morkunas.jpg" alt="" /></a>
+											<a href="https://www.facebook.com/profile.php?id=100008250278677" class="image"><img src="images/Paulius_Morkunas.jpg" alt="" /></a>
 											<p>C# kalbos dėstytojas <br>
 											   Paulius Morkūnas</p>
 											<p>Patirtis programavime : 13 metų;<br>Dirbu: Adform;<br>Stipriosios sritys: C#, JavaScript, funkcinis programavimas, juostinė fotografija, maisto gaminimas.
 											</p>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/Zigmantas_Rackauskas.jpg" alt="" /></a>
+											<a href="https://www.facebook.com/profile.php?id=100016329276473" class="image"><img src="images/Zigmantas_Rackauskas.jpg" alt="" /></a>
 											<p>HTML/CSS/JavaScript/PHP kalbų dėstytojas <br>
 											   Zigmantas Račkauskas</p>
 										</article>

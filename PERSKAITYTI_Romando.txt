@@ -1,0 +1,38 @@
+Atlikti darbai:
+
+*Panaikinome komentarus po kiekvienu dalyviu ir padarëme bendrà komentarø skiltá, nes sunkus atsiradus 
+komentarams puslapyje tarp nuotrauku atsirasdavo daug tuðèios erdvës
+*Papildyti grupiokø linkai
+*Pakeistos puslapio spalvos per index.php ir cdd
+*Ádëti google maps 
+*Áðtrinti nereikalingi punktai ið meniu.
+
+
+
+
+Kur keièiasi spalvos:
+
+Viso puslapio background- virðuje index.php, kur head:
+<style>
+body { background-color: #93B874;}
+</style>
+
+Sidebar spalva - main.css faile, eilute 3590
+css sidebar color 
+
+
+Ikoninio ðrifto spalva- main.css faile, eilute 2699 
+.features article .icon:before {
+color: #93B874;
+
+
+hamburgerio mygtukas - main.css faile, eilute 3661
+
+
+Juosteliu spalva - main.css faile, eilute 3791
+
+
+Mokymosi kursas - main.css faile, eilute 2284
+
+
+
